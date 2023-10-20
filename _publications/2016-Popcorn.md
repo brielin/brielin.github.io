@@ -1,7 +1,7 @@
 ---
 title: "Transethnic genetic correlation estimates from summary statistics"
 collection: publications
-permalink: /publication/2016-Popcorn.md
+permalink: /publication/2016-Popcorn
 excerpt: 'We consider the cross-population genetic correlation and use it to show that complex trait genetic effect sizes can vary substantially across populations throughout the genome.'
 date: 2016-07-07
 venue: 'American Journal of Human Genetics'

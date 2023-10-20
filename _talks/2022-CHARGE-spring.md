@@ -2,7 +2,7 @@
 title: "Multiset correlation and factor analysis enables exploration of multiomic data"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-CHARGE-spring.md
+permalink: /talks/2022-CHARGE-spring
 venue: "CHARGE Philidelphia Spring 2022"
 date: 2022-04-28
 location: "Philidelphia, PA USA"
